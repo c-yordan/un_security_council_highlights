@@ -50,6 +50,11 @@ year,region,number
 2012,Europe,9
 2011,Middle East,27
 2021,Middle East,58
+2024,Africa,77
+2024,Middle East,73
+2024,Asia,17
+2024,Americas,15
+2024,Europe,23
 2020,Middle East,64
 2019,Middle East,60
 2018,Middle East,67
@@ -64,3 +69,4 @@ year,region,number
 2022,Asia,34
 2022,Americas,18
 2022,Europe,12
+
